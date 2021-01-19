@@ -125,3 +125,53 @@
 - [ ] reducer inputs
 - [ ] intermediate values
 - [x] map inputs
+
+#### Q19. Hadoop 2.x and laterimplement which service as resource coordinator ?
+
+- [ ] Job Manager
+- [x] YARN
+- [ ] Job tracker
+- [ ] Kuberenetes
+
+#### Q20. In MapReduce 2.0, when does job.waitForCompletion(true); return true?
+
+- [x] When any attempt at running the job completes
+- [ ] When any attempt at running the job succeeds
+- [ ] When any attempt at running the job fails
+- [ ] When any attempt at running the job starts
+
+#### Q21. Hadoop common is written in which langauge?
+
+- [ ] C
+- [ ] C++
+- [x] java
+- [ ] Haskell
+
+#### Q22. If no reduction is required, you should set the number of tasks ___ to zero
+
+- [x] Reduce 
+- [ ] combiner
+- [ ] intermediate values
+- [x] mapper
+
+#### Q23. MapReduce 1.0  __ YARN.
+
+- [x] does not include 
+- [ ] replaces
+- [ ] is the same thing as
+- [ ] includes
+
+#### Q24. To see the status of the running job SLA, which service tab you should review?
+
+- [x] Oozie 
+- [ ] Hive
+- [ ] Spark
+- [ ] Impala
+
+#### Q25. Hadoop Common consists of which components?
+
+- [ ] HDFS and S3 
+- [x] HDFS and Mapreduce
+- [ ] Spark and YARN
+- [ ] Spark and Mapreduce
+
